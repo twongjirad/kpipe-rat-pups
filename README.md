@@ -8,4 +8,4 @@ To enable the rat environment use env.sh found in the RAT folder.
 
 ## Programs
 
-* cr_analysis code: parses kpipe rat and cry output files.  produces tree for making plots.
+* analysis: parses kpipe rat and cry output files.  produces tree for making plots.
